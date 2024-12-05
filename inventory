@@ -1,5 +1,5 @@
-172.16.194.134
-172.16.194.135
-172.16.194.136
-
-
+[webservers]
+server1 ansible_host=172.16.194.134 ansible_user=server1
+server2 ansible_host=172.16.194.135 ansible_user=server2
+server3 ansible_host=172.16.194.136 ansible_user=server3
+ 
